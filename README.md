@@ -13,9 +13,9 @@ http://kata.coderdojo.com/images/2/28/Python_beginner.pdf
 
 ## Week 2 Notes
 
-Complete Python beginner training.
+Complete Python beginner training.  We completed card 6, but feel free to go back over the others to refresh your understanding.
 
-Make some number games using Random
+Card 7 is a number game.  If you are stuck, here is an example in python.
 
 Example number game: https://repl.it/LFl6/latest
 
