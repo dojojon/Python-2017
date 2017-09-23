@@ -21,3 +21,7 @@ Example number game: https://repl.it/LFl6/latest
 
 Start intermediate
 http://kata.coderdojo.com/images/f/f0/Python_intermediate.pdf
+
+## Week 3
+
+Number game example https://repl.it/L5eM/0
