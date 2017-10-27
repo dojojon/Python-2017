@@ -30,7 +30,7 @@ Number game example https://repl.it/L5eM/0
 
 Complete intermediate cource
 
-## Week 5 - 7
+## Week 5 - 7 Notes
 
 Spooky House Pygame 
 
