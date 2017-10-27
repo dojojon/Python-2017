@@ -19,9 +19,19 @@ Card 7 is a number game.  If you are stuck, here is an example in python.
 
 Example number game: https://repl.it/LFl6/latest
 
-Start intermediate
+Start Intermediate Python
 http://kata.coderdojo.com/images/f/f0/Python_intermediate.pdf
 
-## Week 3
+## Week 3 Notes
 
 Number game example https://repl.it/L5eM/0
+
+## Week 4 Notes
+
+Complete intermediate cource
+
+## Week 5 - 7
+
+Spooky House Pygame 
+
+https://github.com/dojojon/SpookyHouse
